@@ -1,1 +1,0 @@
-﻿[{"noteNum":0,"time":1.75699759,"type":0},{"noteNum":1,"time":1.75699759,"type":0},{"noteNum":2,"time":4.592613,"type":0},{"noteNum":3,"time":7.472087,"type":0},{"noteNum":4,"time":10.3218889,"type":1},{"noteNum":5,"time":13.1284037,"type":1},{"noteNum":6,"time":15.9608612,"type":1}]
